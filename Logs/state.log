@@ -1,0 +1,22 @@
+2026-10-11 19:06:38,480 - Mock Version: 6.9
+2026-10-11 19:06:38,483 - Start(bootstrap): chroot init
+2026-10-11 19:06:38,491 - Start(bootstrap): cleaning package manager metadata
+2026-10-11 19:06:38,499 - Finish(bootstrap): cleaning package manager metadata
+2026-10-11 19:06:39,144 - Finish(bootstrap): chroot init
+2026-10-11 19:06:39,145 - Start: chroot init
+2026-10-11 19:06:39,150 - Start: cleaning package manager metadata
+2026-10-11 19:06:39,170 - Finish: cleaning package manager metadata
+2026-10-11 19:06:39,694 - Start: installing minimal buildroot with yum
+2026-10-11 19:07:50,050 - Finish: installing minimal buildroot with yum
+2026-10-11 19:07:51,076 - Start: creating root cache
+2026-10-11 19:08:00,777 - Finish: creating root cache
+2026-10-11 19:08:00,787 - Finish: chroot init
+2026-10-11 19:08:01,133 - Start: build phase for scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:01,134 - Start: build setup for scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:08,417 - Finish: build setup for scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:08,418 - Start: rpmbuild scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:08,421 - Start: Outputting list of installed packages
+2026-10-11 19:08:08,726 - Finish: Outputting list of installed packages
+2026-10-11 19:08:09,353 - Finish: rpmbuild scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:09,355 - Finish: build phase for scanlogd-2.2.8-1.el8.src.rpm
+2026-10-11 19:08:09,358 - Finish: run
